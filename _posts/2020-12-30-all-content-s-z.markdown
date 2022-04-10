@@ -220,7 +220,7 @@ tags: All-flowers
 # Violet
 * Common violet flower meanings include innocence, everlasting love, modesty, spiritual wisdom, faithfulness, mysticism, and remembrance.
 
-* Violets also are the official birth flower for February.
+* Violets also are the official birth flower for February..
 <br>
 
 ![]({{ site.baseurl }}/images/Violets.jpg)
