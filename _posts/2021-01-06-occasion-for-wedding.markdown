@@ -3,7 +3,7 @@ layout: post
 title:  FOR WEDDING
 date:   2021-01-06 15:01:35 +0300
 image:  wedding0.jpg
-tags:   Occasion
+tags:   occasion
 ---
 ### 1. Columbine
 Columbines are an ideal flower for putting together wedding bouquets or floral gifts for religious friends and family members. They’re so colorful but relatively small, so they make a great addition to a larger arrangement celebrating the start of a new relationship or an anniversary.

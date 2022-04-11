@@ -3,7 +3,7 @@ layout: post
 title:  ALL FLOWERS A-D
 date:   2020-12-28 15:01:35 +0300
 image:  a-d.jpg
-tags: All-flowers
+tags: all-flowers
 ---
 
 ***

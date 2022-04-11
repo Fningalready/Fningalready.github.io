@@ -3,7 +3,7 @@ layout: post
 title:  FOR FRIENDS
 date:   2020-12-31 18:05:55 +0300
 image:  friends.jpg
-tags:   Recipient
+tags:   recipient
 ---
 ### 1. Borage
 * You can give it to the smart people around you, to appreciate his quick-witted thinking, but also want to be like him.

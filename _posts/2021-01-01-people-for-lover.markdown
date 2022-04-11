@@ -3,7 +3,7 @@ layout: post
 title:  FOR LOVER
 date:   2021-01-01 18:05:55 +0300
 image:  love.jpg
-tags:   Recipient
+tags:   recipient
 ---
 ### 1. Bachelor’s Button(Cornflower)
 * Girls can use cornflowers to express their desire for love.

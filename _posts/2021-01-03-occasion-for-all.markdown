@@ -3,7 +3,7 @@ layout: post
 title:  FOR ALL OCCASION
 date:   2021-01-03 15:01:35 +0300
 image:  all.jpg
-tags:   Occasion
+tags:   occasion
 ---
 ### 1. Cyclamen
 If you don't know what flowers you should choose as a gift, then you can choose Cyclamen. Potted cyclamen plants make an endearing gift for nearly anyone on your list. These flowers are ideal for moms, daughters, sisters, and even that new love interest. Florist’s cyclamen make wonderful holiday gifts and can even be used as hostess gifts. The flowers bloom for several months brightening the cold, dark days with a splash of winter color.

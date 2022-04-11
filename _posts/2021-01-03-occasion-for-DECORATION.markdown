@@ -3,7 +3,7 @@ layout: post
 title:  FOR DECORATION
 date:   2021-01-03 15:01:35 +0300
 image:  de.jpg
-tags:   Occasion
+tags:   occasion
 ---
 ### 1. Acanthus
 * Ancient Roman sculpture used many of these plants as decorations.

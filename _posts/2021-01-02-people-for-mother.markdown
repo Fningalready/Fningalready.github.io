@@ -3,7 +3,7 @@ layout: post
 title:  FOR MOTHER
 date:   2021-01-02 18:05:55 +0300
 image:  mom.jpg
-tags:   Recipient
+tags:   recipient
 ---
 ### 1. Carnation
 * Carnation often dedicated to mothers. It is the most representative flower of women. The most typical graduation flower is given to graduates who have completed a degree or who have received excellent grade.
