@@ -5,7 +5,7 @@ destination: docs/
 
 # Build settings
 markdown: kramdown
-permalink: pretty
+permalink: none
 plugins:
   - jekyll-paginate
   - jekyll-sitemap

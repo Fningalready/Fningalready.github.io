@@ -6,9 +6,11 @@ image:  all.jpg
 tags:   occasion
 ---
 ### 1. Cyclamen
-If you don't know what flowers you should choose as a gift, then you can choose Cyclamen. Potted cyclamen plants make an endearing gift for nearly anyone on your list. These flowers are ideal for moms, daughters, sisters, and even that new love interest. Florist’s cyclamen make wonderful holiday gifts and can even be used as hostess gifts. The flowers bloom for several months brightening the cold, dark days with a splash of winter color.
+If you don't know what flowers you should choose as a gift, then you can choose Cyclamen. Potted cyclamen plants make an endearing gift for nearly anyone on your list. These flowers are ideal for moms, daughters, sisters, and even that new love interest. Florist’s cyclamen make wonderful holiday gifts and can even be used as hostess gifts. The flowers bloom for several months brightening the cold, dark days with a splash of winter color[1].
 ![]({{ site.baseurl }}/images/all1.png)
 <br>
+
+1. Jay, N., 2020. [online] Available at: <https://symbolsage.com/cyclamen-flower-meaning/> [Accessed 12 April 2022].
 
 ### 2. Orchid
 Potted orchids are also an excellent gifting option, no matter the occasion.
@@ -16,6 +18,11 @@ Potted orchids are also an excellent gifting option, no matter the occasion.
 <br>
 
 ### 3. Tansy
-Tansy flowers are suitable as gifts for a variety of occasions. Gardeners may appreciate the flowers as presents for birthdays, anniversaries, weddings, or even as a romantic gesture.
+Tansy flowers are suitable as gifts for a variety of occasions. Gardeners may appreciate the flowers as presents for birthdays, anniversaries, weddings, or even as a romantic gesture[2].
 ![]({{ site.baseurl }}/images/all3.png)
 <br>
+
+2. Gaumond, A., 2021. *Tansy Flower Meaning, Popular Types, and Uses.* [online] Petal Republic. Available at: <https://www.petalrepublic.com/tansy-flower/> [Accessed 12 April 2022].
+
+
+__Image Source:__ <a href="https://pixabay.com/">__Pixabay__</a>

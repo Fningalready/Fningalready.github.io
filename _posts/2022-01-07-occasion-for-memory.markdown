@@ -7,9 +7,11 @@ tags:   occasion
 ---
 
 ### 1. Poppy
-The poppy stands for memorial and is used to remember a loved one who has died. Since the flowers are large, cup-shaped, and colorful, Poppy bouquets and sprays look impressive. Give the gift of the Poppy for occasions like: Funerals and memorial services, especially for soldiers that pass away while serving or veterans. Encouraging better sleep in friends and family members experiencing insomnia. Making an offering to the dead by leaving the flowers on graves or tombs.
+The poppy stands for memorial and is used to remember a loved one who has died. Since the flowers are large, cup-shaped, and colorful, Poppy bouquets and sprays look impressive. Give the gift of the Poppy for occasions like: Funerals and memorial services, especially for soldiers that pass away while serving or veterans. Encouraging better sleep in friends and family members experiencing insomnia. Making an offering to the dead by leaving the flowers on graves or tombs[1].
 ![]({{ site.baseurl }}/images/me1.jpg)
 <br>
+
+1. Zoe, 2021. *POPPY FLOWER MEANING AND SYMBOLISM.* [online] The African Garden. Available at: <https://theafricangarden.com/poppy-flower-meaning/> [Accessed 12 April 2022].
 
 ### 2.  Willow Branches
 In China, some people carry willow branches with them on the day of their Tomb Sweeping or Qingming Festival.

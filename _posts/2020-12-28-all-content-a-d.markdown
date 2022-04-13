@@ -14,7 +14,7 @@ tags: all-flowers
 
 * "Love art, and nothing can separate us."[1]
 
-1. Gaumond, A., 2022. Acanthus Flower Meaning, Types, and Growing Tips. [online] Petal Republic. Available at: <https://www.petalrepublic.com/acanthus-flower/> [Accessed 12 April 2022].
+1. Gaumond, A., 2022. *Acanthus Flower Meaning, Types, and Growing Tips.* [online] Petal Republic. Available at: <https://www.petalrepublic.com/acanthus-flower/> [Accessed 12 April 2022].
 
 <br>
 
@@ -30,7 +30,7 @@ tags: all-flowers
 ![]({{ site.baseurl }}/images/aloe.jpg)
 <br>
 
-2. Team, P., 2020. Ultimate Guide to Aloe Vera Plants. [online] Petal Republic. Available at: <https://www.petalrepublic.com/aloe-vera-plant-guide/> [Accessed 12 April 2022].
+2. Team, P., 2020. *Ultimate Guide to Aloe Vera Plants.* [online] Petal Republic. Available at: <https://www.petalrepublic.com/aloe-vera-plant-guide/> [Accessed 12 April 2022].
 
 ***
 
@@ -44,7 +44,7 @@ tags: all-flowers
 ![]({{ site.baseurl }}/images/amaryllis.jpg)
 <br>
 
-3. Team, P., 2020. Ultimate Guide to Amaryllis Flower Meaning and Symbolism. [online] Petal Republic. Available at: <https://www.petalrepublic.com/amaryllis-flower-meaning/> [Accessed 12 April 2022].
+3. Team, P., 2020. *Ultimate Guide to Amaryllis Flower Meaning and Symbolism.* [online] Petal Republic. Available at: <https://www.petalrepublic.com/amaryllis-flower-meaning/> [Accessed 12 April 2022].
 
 ***
 
@@ -62,7 +62,7 @@ Anemone (white) : The joy of love[4]
 ![]({{ site.baseurl }}/images/anemone.jpg)
 <br>
 
-4. Fresh, F., 2021. Anemone Meaning and Symbolism - FTD.com. [online] FTD.com. Available at: <https://www.ftd.com/blog/share/anemone-meaning-and-symbolism> [Accessed 12 April 2022].
+4. Fresh, F., 2021. *Anemone Meaning and Symbolism - FTD.com.* [online] FTD.com. Available at: <https://www.ftd.com/blog/share/anemone-meaning-and-symbolism> [Accessed 12 April 2022].
 
 ***
 
@@ -103,7 +103,7 @@ In the classic animation "Flower Fairy" 14th episode, tells a story about missin
 ![]({{ site.baseurl }}/images/asters.jpg)
 <br>
 
-P., R., 2021. Aster Flower Meaning and Symbolism. [online] Florgeous. Available at: <https://florgeous.com/aster-flower-meaning/> [Accessed 12 April 2022].
+5. P., R., 2021. *Aster Flower Meaning and Symbolism.* [online] Florgeous. Available at: <https://florgeous.com/aster-flower-meaning/> [Accessed 12 April 2022].
 
 ***
 
@@ -122,7 +122,7 @@ Purple has a girlish feel, so the language of flowers means tenderness and lovel
 ![]({{ site.baseurl }}/images/bachelor-button.jpg)
 <br>
 
-6. FORBES, M., 2022. Bachelor Button Flower: Meaning, Symbolism, and Colors | Pansy Maiden. [online] Pansy Maiden. Available at: <https://www.pansymaiden.com/flowers/meaning/bachelor-button/> [Accessed 12 April 2022].
+6. FORBES, M., 2022. *Bachelor Button Flower: Meaning, Symbolism, and Colors | Pansy Maiden.* [online] Pansy Maiden. Available at: <https://www.pansymaiden.com/flowers/meaning/bachelor-button/> [Accessed 12 April 2022].
 
 ***
 
@@ -138,7 +138,7 @@ Purple has a girlish feel, so the language of flowers means tenderness and lovel
 ![]({{ site.baseurl }}/images/basil.jpg)
 <br>
 
-7. Schrader, H., 2020. Flower language and legend of basil - The Plant Aide. [online] Theplantaide.com. Available at: <https://www.theplantaide.com/articles/flower-language-and-legend-of-basil.html> [Accessed 12 April 2022].
+7. Schrader, H., 2020. *Flower language and legend of basil - The Plant Aide.* [online] Theplantaide.com. Available at: <https://www.theplantaide.com/articles/flower-language-and-legend-of-basil.html> [Accessed 12 April 2022].
 
 ***
 
@@ -185,8 +185,8 @@ Purple has a girlish feel, so the language of flowers means tenderness and lovel
 ![]({{ site.baseurl }}/images/bluebell.jpg)
 <br>
 
-8. Plant and Flower Dictionary. 2021. Bluebell Flower Meaning and Symbolism - Plant and Flower Dictionary. [online] Available at: <https://theafricangarden.com/bluebell-flower-meaning/> [Accessed 12 April 2022].
-9. Kathleen Karlsen. 2022. Bluebell Flower Meaning - Fairies, Shakespeare, Witches & Dreams. [online] Available at: <https://kathleenkarlsen.com/bluebell-meaning> [Accessed 12 April 2022].
+8. Plant and Flower Dictionary. 2021. *Bluebell Flower Meaning and Symbolism - Plant and Flower Dictionary.* [online] Available at: <https://theafricangarden.com/bluebell-flower-meaning/> [Accessed 12 April 2022].
+9. Kathleen Karlsen. 2022. *Bluebell Flower Meaning - Fairies, Shakespeare, Witches & Dreams.* [online] Available at: <https://kathleenkarlsen.com/bluebell-meaning> [Accessed 12 April 2022].
 
 ***
 
@@ -209,7 +209,7 @@ Purple has a girlish feel, so the language of flowers means tenderness and lovel
 ![]({{ site.baseurl }}/images/calla-lily.jpg)
 <br>
 
-10. Overnight Flowers. 2020. What Is the Meaning Behind Calla Lily Flowers? (And 7 Occasions To Send Calla Lilies). [online] Available at: <https://www.overnightflowers.com/blogs/onf-blog/what-is-the-meaning-behind-calla-lily-flowers-plus-7-occasions-to-send-calla-lilies> [Accessed 12 April 2022].
+10. Overnight Flowers. 2020. *What Is the Meaning Behind Calla Lily Flowers? (And 7 Occasions To Send Calla Lilies).* [online] Available at: <https://www.overnightflowers.com/blogs/onf-blog/what-is-the-meaning-behind-calla-lily-flowers-plus-7-occasions-to-send-calla-lilies> [Accessed 12 April 2022].
 
 ***
 
@@ -227,7 +227,7 @@ Purple has a girlish feel, so the language of flowers means tenderness and lovel
 ![]({{ site.baseurl }}/images/camellia-white.jpg)
 <br>
 
-11. Flower Meaning. 2022. Camellia Flower Meaning - Flower Meaning. [online] Available at: <https://www.flowermeaning.com/camellia-flower-meaning/> [Accessed 12 April 2022].
+11. Flower Meaning. 2022. *Camellia Flower Meaning - Flower Meaning.* [online] Available at: <https://www.flowermeaning.com/camellia-flower-meaning/> [Accessed 12 April 2022].
 
 ***
 
@@ -247,7 +247,7 @@ Purple has a girlish feel, so the language of flowers means tenderness and lovel
 ![]({{ site.baseurl }}/images/carnation.jpg)
 <br>
 
-12. Bloom & Wild. 2022. Bloom & Wild Flower Delivery | Flowers & Gifts. [online] Available at: <https://www.bloomandwild.com/the-symbolism-and-colour-meaning-of-carnations> [Accessed 12 April 2022].
+12. Bloom & Wild. 2022. *Bloom & Wild Flower Delivery | Flowers & Gifts.* [online] Available at: <https://www.bloomandwild.com/the-symbolism-and-colour-meaning-of-carnations> [Accessed 12 April 2022].
 
 ***
 
@@ -275,7 +275,7 @@ Purple has a girlish feel, so the language of flowers means tenderness and lovel
 ![]({{ site.baseurl }}/images/Crab-blossom.jpg)
 <br>
 
-13. Gaumond, A., 2022. Crabapple Blossom Meaning, Popular Types, and Uses. [online] Petal Republic. Available at: <https://www.petalrepublic.com/crabapple-blossom/> [Accessed 12 April 2022].
+13. Gaumond, A., 2022. *Crabapple Blossom Meaning, Popular Types, and Uses.* [online] Petal Republic. Available at: <https://www.petalrepublic.com/crabapple-blossom/> [Accessed 12 April 2022].
 
 ***
 
@@ -315,7 +315,7 @@ Purple has a girlish feel, so the language of flowers means tenderness and lovel
 
 * More common meanings of dahlias are remaining graceful and standing out from the crowd since their beauty and elegance is undeniable[15].
 
-15. Moulton, M., 2021. Ultimate Guide to Dahlia Flower Meaning and Symbolism. [online] Petal Republic. Available at: <https://www.petalrepublic.com/dahlia-flowers/> [Accessed 12 April 2022].
+15. Moulton, M., 2021. *Ultimate Guide to Dahlia Flower Meaning and Symbolism.* [online] Petal Republic. Available at: <https://www.petalrepublic.com/dahlia-flowers/> [Accessed 12 April 2022].
 
 ***
 ### Daisy
