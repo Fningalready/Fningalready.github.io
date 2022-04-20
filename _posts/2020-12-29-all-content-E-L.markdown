@@ -7,26 +7,28 @@ tags: all-flowers
 ---
 ***
 
-### Edelwelss
+### Edelweiss
 
-* The unique furry petals and leaves of the Edelweiss hint at its romantic meaning, but it’s the white color that gives it the symbolism of purity and innocence. It is widely used as a symbol of rugged individualism and exploring the wilderness due to its growth in the high altitudes of the Alps[1].
+* The Edelweiss' distinctive hairy petals and leaves hint to its romantic significance, but it's the white hue that represents purity and innocence. Because it grows at great altitudes in the Alps, it is frequently regarded as a symbol of rugged individuality and wilderness exploration(Fleming, 2019).
 <br>
 
-* Edelweiss is not widely used as a fresh cut flower in bouquets, but it is often given as a gift in dried form. Dried Edelweiss are great for commemorating a visit to the Alps or Austria and Switzerland[1]. 
+* Edelweiss is not commonly used in bouquets as a fresh cut flower, but it is frequently presented as a dried gift. Dried Edelweiss is a terrific way to remember a trip to the Alps, Austria, or Switzerland(Gaumond, 2021). 
 <br>
 
-* As a symbolic gift, it can also inspire someone’s adventurous side or indicate your romantic devotion. Even Edelweiss themed gifts are good for sending a clear message of how you feel to someone[1].
+* It can also stimulate someone's daring side or show your love commitment as a symbolic present. Even Edelweiss-themed presents may offer a powerful statement to someone about how you feel(Flower Meaning, 2018).
+
+#### Tag:[Campanulales](/campanulales),[Asteraceae](/asteraceae)
 
 ![]({{ site.baseurl }}/images/Edelwelss.jpg)
 <br>
-
-1. Flower Meaning, 2018. *The Edelweiss Flower: Its Meaning & Symbolism.* [online]. Available at: <https://www.flowermeaning.com/edelweiss-flower-meaning/> [Accessed 12 April 2022].
 
 ***
 
 ### Forget-me-not
 
 * True love memories, Do not forget me	
+
+#### Tag:[Tubiflorae](/tubiflorae),[Boraginaceae](/boraginaceae)
 
 ![]({{ site.baseurl }}/images/Forget-me-not.jpg)
 <br>
@@ -35,20 +37,20 @@ tags: all-flowers
 
 ### Gardenia
 
-* Traditionally, gardenia flowers can have symbolized a number of different meanings and sentiments.. The most common include trust, hope, clarity, renewal, peace and protection[2]. 
+* Gardenia flowers have been used to represent a variety of emotions and meanings in the past. Trust, protection, clarity, rejuvenation, hope and tranquility are among the most prevalent(Moulton, 2022). 
 
-* In the language of flowers the color white is often symbolic of innocence, new beginnings, purity, and elegance[2].
+* White is generally associated with purity, fresh beginnings,  innocence and elegance in floral language(Moulton, 2022).
+
+#### Tag:[Rubiales](/rubiales),[Rubiaceae](/rubiaceae)
 
 ![]({{ site.baseurl }}/images/Gardenia.jpg)
 <br>
-
-2. Moulton, M., 2022. *Ultimate Guide To Gardenia Flower Meaning, Symbolism, and Uses.* [online] Petal Republic. Available at: <https://www.petalrepublic.com/gardenia-flower/> [Accessed 12 April 2022].
 
 ***
 
 ### Gladiolus	
 
-* Flower of the Gladiators, Integrity, Strength, Victory
+* Flower of the Victory, Integrity, Strength, Gladiators
 
 ![]({{ site.baseurl }}/images/Gladiolus.jpg)
 <br>
@@ -57,7 +59,7 @@ tags: all-flowers
 
 ### Hyacinth	
 
-* Sport, Game, Play[3]
+* Sport, Game, Play(Rebekah, 2021)
 
 * Blue Hyacinth:Constancy
 
@@ -65,18 +67,20 @@ tags: all-flowers
 
 * Yellow Hyacinth:Jealousy
 
-* White Hyacinth:Loveliness, Prayers for someone[3]
+* White Hyacinth:Loveliness, Prayers for someone(Rebekah, 2021)
+
+#### Tag:[Asparagales](/asparagales)
 
 ![]({{ site.baseurl }}/images/Hyacinth.jpg)
 <br>
-
-3. Rebekah P., 2021. *Hyacinth Flower Meaning and Symbolism.* [online] Florgeous. Available at: <https://florgeous.com/hyacinth-flower-meaning/> [Accessed 12 April 2022].
 
 ***
 
 ### Hyssop
 
 * Sacrifice，Cleanliness
+
+#### Tag:[Campanulales](/campanulales)
 
 ![]({{ site.baseurl }}/images/Hyssop.jpg)
 <br>
@@ -85,7 +89,9 @@ tags: all-flowers
 
 ### Iris
 
-* Faith，trust，Wisdom，Hope，Valor
+* Faith，Valor, trust, Wisdom and Hope
+
+#### Tag:[Liliflorae](/liliflorae)
 
 ![]({{ site.baseurl }}/images/Iris.jpg)
 <br>
@@ -94,19 +100,21 @@ tags: all-flowers
 
 ### Jasmine
 
-* love, romance,and sensuality, purity and motherhood, as well as honor and respect[4].
+* love, romance, and sensuality, purity and motherhood, as well as honor and respect(Moulton, 2021).
+
+#### Tag:[Oleaceae](/oleaceae)
 
 ![]({{ site.baseurl }}/images/Jasmine.jpg)
 
 <br>
-
-4. Moulton, M., 2021. *Ultimate Guide to Jasmine Flower Meaning and Uses.* [online] Petal Republic. Available at: <https://www.petalrepublic.com/jasmine-flower/> [Accessed 12 April 2022].
 
 ***
 
 ### Lady’s Slipper
 
 * Capricious and beauty
+
+#### Tag:[Orchidaceae](/orchidaceae)
 
 ![]({{ site.baseurl }}/images/Lady’s Slipper.jpg)
 
@@ -116,19 +124,21 @@ tags: all-flowers
 
 ### Larkspur
 
-* Open heart, levity, lightness, fickleness (pink or simple varieties)[5].
+* Open heart, levity, lightness, fickleness (pink or simple varieties)(Almanac, 2022).
+
+#### Tag:[Ranales](/ranales), [Ranunculaceae](/ranunculaceae)
 
 ![]({{ site.baseurl }}/images/Larkspur.jpg)
 
-5. Fresh, F., 2018. *July Birth Flower: Larkspur.* [online] FTD.com. Available at: <https://www.ftd.com/blog/share/july-birth-flower> [Accessed 12 April 2022].
+***
 
 <br>
-
-***
 
 ### Lavender
 
 * Distrust
+
+#### Tag:[Lamiales](/lamiales), [Lamiaceae](/lamiaceae)
 
 ![]({{ site.baseurl }}/images/Lavender.jpg)
 
@@ -140,6 +150,8 @@ tags: all-flowers
 
 * Distrust 
 
+#### Tag:[Tubiflorae](/tubiflorae), [Lamiaceae](/lamiaceae)
+
 ![]({{ site.baseurl }}/images/Lemon balm.jpg)
 <br>
 
@@ -149,14 +161,18 @@ tags: all-flowers
 
 * Joy of youth
 
+#### Tag:[Contortae](/contortae), [Oleaceae](/oleaceae)
+
 ![]({{ site.baseurl }}/images/Lilac.jpg)
 <br>
 
 ***
 
-# Lily 
+### Lily 
 
 * Virginity, Purity, Heavenly
+
+#### Tag:[Liliflorae](/liliflorae), [Liliaceae](/liliaceae)
 
 ![]({{ site.baseurl }}/images/Lily.jpg)
 <br>
@@ -165,11 +181,12 @@ tags: all-flowers
 
 # Lily-of-the-valley
 
-* Sweetness, Tears of the Virgin Mary, Humility[6]
+* Sweetness, Tears of the Virgin Mary, Humility(Fresh, 2018)
+
+#### Tag:[Asparagales](/asparagales), [Liliaceae](/liliaceae)
 
 ![]({{ site.baseurl }}/images/Lily-of-the-valley.jpg)
 
-6. Fresh, F., 2018. *May Birth Flower: Lily of the Valley.* [online] FTD.com. Available at: <https://www.ftd.com/blog/share/may-birth-flower> [Accessed 12 April 2022].
 <br>
 
 ***
@@ -177,3 +194,53 @@ tags: all-flowers
 
 
 __Image Source:__ <a href="https://pixabay.com/">__Pixabay__</a>
+
+
+<html lang="en">
+ 
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+ 
+<body>
+    <div style="border: 2px solid lightgray;">
+    <a href="javascript:;" id="btn" style="font-size: 24px; font-style: bold; color:rgb(255, 157, 0);">
+        >>>Reference</a>
+    <span id="content">
+        <br>
+        Almanac. 2022. <i>Flower Meanings: The Language of Flowers.</i> [online] Available at: <https://www.almanac.com/flower-meanings-language-flowers> [Accessed 12 April 2022].<br><br>
+        Fleming E., 2019. <i>What is the significance of Edelweiss?.</i> [online] Sidmartinbio. Available at: <https://www.sidmartinbio.org/what-is-the-significance-of-edelweiss/> [Accessed 12 April 2022].<br><br>
+        Flower Meaning. 2018. <i>The Edelweiss Flower: Its Meaning & Symbolism.</i> [online] Available at: <https://www.flowermeaning.com/edelweiss-flower-meaning/> [Accessed 12 April 2022].<br><br>
+        Fresh, F., 2018. <i>May Birth Flower: Lily of the Valley.</i> [online] FTD.com. Available at: <https://www.ftd.com/blog/share/may-birth-flower> [Accessed 12 April 2022].<br><br>
+        Gaumond, A., 2021. <i>Edelweiss Flower Meaning, Symbolism, and Uses.</i> [online] Petal Republic. Available at: <https://www.petalrepublic.com/edelweiss-flower/> [Accessed 12 April 2022].<br><br>
+        Moulton, M., 2021. <i>Ultimate Guide to Jasmine Flower Meaning and Uses.</i> [online] Petal Republic. Available at: <https://www.petalrepublic.com/jasmine-flower/> [Accessed 12 April 2022].<br><br>
+        Moulton, M., 2022. <i>Ultimate Guide To Gardenia Flower Meaning, Symbolism, and Uses.</i> [online] Petal Republic. Available at: <https://www.petalrepublic.com/gardenia-flower/> [Accessed 12 April 2022].<br><br>
+        Rebekah, P., 2021. <i>Hyacinth Flower Meaning and Symbolism.</i> [online] Florgeous. Available at: <https://florgeous.com/hyacinth-flower-meaning/> [Accessed 12 April 2022].<br><br>
+        <br>
+    </span>
+    </div>
+    <script type="text/javascript">
+        //获取button按钮
+        var btn = document.getElementById('btn');
+        //获取p
+        var content = document.getElementById('content');
+        //获取p中的内容
+        var str = content.innerHTML;
+        //定义一个变量，表示当前的状态（收缩、展开）
+        var onOff = true; // true表示展开
+        btn.onclick = function() {
+            if (onOff) {
+                content.innerHTML = str.substr(0, 0);
+            } else {
+                //说明当前状态是收缩的，需要展开
+                content.innerHTML = str
+            }
+            onOff = !onOff; //每点击一次，改变一次展开、收缩状态
+            return false; //阻止a标签的默认事件
+        }
+    </script>
+
+</body>
+ 
+</html>

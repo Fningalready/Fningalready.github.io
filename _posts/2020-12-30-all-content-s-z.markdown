@@ -11,20 +11,23 @@ tags: all-flowers
 * Symbol of Wisdom and Immortality, Vice and Virtue.
 <br>
 
-* The ancient Romans and Greeks believed that it represented domestic virtue and satyrs, mythical half-goat, half-men that loved debauchery and drinking at the same time[1].
+* The ancient Romans and Greeks believed that it represented domestic virtue and satyrs, mythical half-goat, half-men that loved debauchery and drinking at the same time(Walls-Thumma, 2017).
 
-* Pagan practitioners use sage brooms to cleanse negative energies[1].
+*Sage brooms are used by Pagans to clear bad energy(Walls-Thumma, 2017).
+
+#### Tag:[Tubiflorae](/tubiflorae), [Lamiaceae](/lamiaceae)
 <br>
 
 ![]({{ site.baseurl }}/images/Sage.jpg)
 <br>
 
-1. Walls-Thumma, D., 2017. *The Significance of the Herb Sage.* [online] Garden Guides. Available at: <https://www.gardenguides.com/139463-significance-herb-sage.html> [Accessed 12 April 2022].
-
 ***
 
 # Salvia, Blue
-* The blue flowers of a Salvia are often aligned with friendship and family and symbolic of thoughtful gestures such as sentiments of “missing you” or “thinking of you”[2].	
+* Salvia's blue blossoms are frequently associated with friendship and family, and are indicative of considerate actions such as "missing you" or "thinking about you."(Gaumond, 2021).	
+
+#### Tag:[Tubiflorae](/tubiflorae), [Lamiaceae](/lamiaceae)
+
 <br>
 
 ![]({{ site.baseurl }}/images/Salvia, blue.jpg)
@@ -33,66 +36,70 @@ tags: all-flowers
 ***
 
 # Salvia, Red
-* The red blooming Salvia flower is traditionally associated with love and romance and is symbolic of “Forever mine” gestures[2].
+* The red blooming Salvia flower has long been connected with love and passion, and it is often used in "Forever mine" gestures(Gaumond, 2021).
 
-* Salvias make thoughtful gifts for a variety of occasions[2].
+* Salvias are perfect for a multitude of situations and are wonderful presents(Gaumond, 2021).
 ![]({{ site.baseurl }}/images/Salvia, red.jpg)
 <br>
 
-2. Gaumond, A., 2021. *Salvia Flower Meaning, Symbolism, and Uses.* [online] Petal Republic. Available at: <https://www.petalrepublic.com/salvia-flower/> [Accessed 12 April 2022].
+#### Tag:[Tubiflorae](/tubiflorae), [Lamiaceae](/lamiaceae)
 
 ***
 
 # Savory	
-* The savory herb held the symbolic meaning of love and romance[3].
+* The savory herb held the symbolic meaning of love and romance(Gaumond, 2021).
 
-* White Savory: honesty and sympathy[3].
+* White Savory: honesty and sympathy(Gaumond, 2021).
 
-* Pink Savory: Happiness and gentleness[3].
+* Pink Savory: Happiness and gentleness(Gaumond, 2021).
 
-* Lilac Savory: convey wealth, good fortune, and new beginnings[3].
+* Lilac Savory: great fortune, convey wealth and fresh beginnings(Gaumond, 2021).
+
+#### Tag:[Tubiflorae](/tubiflorae), [Lamiaceae](/lamiaceae)
+
 <br>
 
 ![]({{ site.baseurl }}/images/Savory.jpg)
 <br>
 
-3. Gaumond, A., 2021. *Savory Flower Meaning, Symbolism, Types, and Uses.* [online] Petal Republic. Available at: <https://www.petalrepublic.com/savory-flower/> [Accessed 12 April 2022].
-
 ***
 
 # Snapdragon	
-* Purple snapdragons symbolize spirituality, which is different from other purple flowers that represent royalty[4].
+* Purple snapdragons indicate spirituality, as opposed to other purple flowers that are associated with monarchy(Rebekah, 2021).
 
-* Red snapdragons are associated with passion and love[4].
+* Red snapdragons are associated with passion and love(Rebekah, 2021).
 
-* White snapdragons represent purity, innocence and grace[4].
+* White snapdragons represent purity, innocence and grace(Rebekah, 2021).
 
-* Yellow snapdragons symbolize happiness and good luck[4].
+* Yellow snapdragons symbolize happiness and good luck(Rebekah, 2021).
+
 <br>
 
 ![]({{ site.baseurl }}/images/Snapdragon.jpg)
 <br>
 
-4. Rebekah P., 2021. *Snapdragon Flower Meaning and Symbolism.* [online] Florgeous. Available at: <https://florgeous.com/snapdragon-flower-meaning/> [Accessed 12 April 2022].
-
 ***
 
 # Southernwood	
-* White flowers: purity, peace, healing, clarity, and even holiness[5].
 
-* Yellow and cream-colored flowers: joy, growth, youthfulness, fun, and exuberance[5].
+* White flowers: purity, clarity, healing, peace, and even holiness(Gaumond, 2021).
+
+* Yellow and cream-colored flowers: joy, growth, youthfulness, fun, and exuberance(Gaumond, 2021).
 <br>
 
-* Since it was commonly given by young people first starting a relationship, it’s not as passionate or intense as flowers like red roses[5].
+* It's not as emotional or intense as flowers like red roses because it's frequently given by young people who are just starting a relationship(Gaumond, 2021).
+
+#### Tag:[Asteraceae](/asteraceae)
+
 ![]({{ site.baseurl }}/images/Southernwood.jpg)
 <br>
-
-5. Gaumond, A., 2021. *Ultimate Guide to Southernwood (Artemisia abrotanum).* [online] Petal Republic. Available at: <https://www.petalrepublic.com/southernwood-flower/> [Accessed 12 April 2022].
 
 ***
 
 # Spearmint	
-* Spearmints symbolize Warmth of sentiment and wisdom.
+* Spearmints symbolize Warmth of sentiment and wisdom(Almanac, 2022).
+
+#### Tag:[Tubiflorae](/tubiflorae), [Lamiaceae](/lamiaceae)
 <br>
 
 ![]({{ site.baseurl }}/images/Spearmint.jpg)
@@ -101,21 +108,22 @@ tags: all-flowers
 ***
 
 # Speedwell
-* Blue flowers symbolize openness for new experiences, peace, calmness, trust, and healing from illness[6].
+* Blue flowers represent openness to new experiences, tranquility, quiet, trust, and sickness recovery(Gaumond, 2021).
 
-* Purple flowers symbolize royalty and regalness, elegance, mystery, passion, and transitions in life[6].
+* Purple flowers are associated with monarchy, regalness, elegance, mystery, passion, and life changes(Gaumond, 2021).
 
-* Pink flowers symbolize joy, youthfulness, early or developing feelings of love, gentleness, and delicacy[6].
+* Pink flowers are associated with joy, youth, new or emerging sentiments of love, softness, and delicacy(Gaumond, 2021).
 
-* White flowers symbolize innocence, purity, healing, new beginnings, romance, and devotion[6].
+* White flowers represent Innocence, purity, healing, fresh beginnings, romance, and devotion(Gaumond, 2021).
 
-* Lavender flowers symbolize youthful elegance, feminine beauty, joy, and happiness[6].
+* Lavender flowers are associated with youth, femininity, joy, and happiness(Gaumond, 2021).
+
+#### Tag:[Tubiflorae](/tubiflorae)
+
 <br>
 
 ![]({{ site.baseurl }}/images/Speedwell.jpg)
 <br>
-
-6. Gaumond, A., 2021. *Speedwell (Veronica) Flower Meaning, Types, and Uses.* [online] Petal Republic. Available at: <https://www.petalrepublic.com/speedwell-flower/#4-speedwell-botanical-characteristics-colors-fragrances-> [Accessed 12 April 2022].
 
 ***
 
@@ -130,45 +138,50 @@ tags: all-flowers
 
 * Healing and Strength.
 
-* Splendor, intellectual greatness, as well as pure and lofty thoughts[7].
+* Splendor, intellectual greatness, as well as pure and lofty thoughts(Jay, 2022).
+
+#### Tag:[Campanulales](/campanulales), [Asteraceae](/asteraceae)
+
 <br>
 
 ![]({{ site.baseurl }}/images/Sunflower.jpg)
 <br>
 
-7. Avia, 2018. *Symbolic Sunflower Meaning.* [online] Whats-Your-Sign.com. Available at: <https://www.whats-your-sign.com/symbolic-sunflower-meaning.html> [Accessed 12 April 2022].
-
 ***
 
 # Sweet Pea
-* Sweet peas, which are the official birth flowers for April, are a symbol of blissful pleasure primarily because of their vibrant colors[8].
+* Sweet peas, the official April birth flower, are associated with happiness due to their vibrant colors(Rebekah, 2015).
 
-* Many believe that these blooms leave a positive experience and a thoughtful way to say thank you as they further symbolize gratitude[8].
+* Many people feel that these flowers produce a pleasant impression and are a thoughtful way to express thanks(Rebekah, 2015).
+
+#### Tag:[Rosales](/rosales), [Fabaceae](/fabaceae)
+
 <br>
 
 ![]({{ site.baseurl }}/images/Sweet-pea.jpg)
 <br>
 
-8. Rebekah, P., 2015. *Sweet Pea Flower Meaning and Symbolism.* [online] Florgeous. Available at: <https://florgeous.com/sweet-pea-flower-meaning/> [Accessed 12 April 2022].
-
 ***
 
 # Sweet William	
-* Sweet William has traditionally held the symbolic meaning of love, grace, gratitude, and admiration[9].
+* Love, grace, thanks, and adoration have all been associated with Sweet William in the past(Forbes, 2021).
 
-* Sweet William comes in whites, pinks, reds, purples, and multicolor. These may be used respectively for mourning, friendship, romance, and wealth[9].	
+* Sweet William is available in a variety of colors, including whites, pinks, reds, purples, and multicolors. These can be used for grieving, friendship, romance, and fortune, respectively(Forbes, 2021).	
+
+#### Tag:[Centrospermae](/centrospermae), [Caryophyllaceae](/caryophyllaceae)
+
 <br>
 
 ![]({{ site.baseurl }}/images/Sweet-William.jpg)
 <br>
 
-9. Forbes, M., 2021. *Sweet William Flower: Meaning, Symbolism, and Colors.* [online] Pansy Maiden. Available at: <https://www.pansymaiden.com/flowers/meaning/sweet-william/> [Accessed 12 April 2022].
-
-
 ***
 
 # Sweet Woodruff	
 * Sweet woodruff is a symbol of humility.
+
+#### Tag:[Rubiaceae](/rubiaceae)
+
 <br>
 
 ![]({{ site.baseurl }}/images/Sweet-Woodruff.jpg)
@@ -177,21 +190,24 @@ tags: all-flowers
 ***
 
 # Tansy	
-* Symbol of Protection, health, resistance, and immortality[10].
+* Symbol of Protection, immortality, resistance, health(Gaumond, 2021).
 
-* Tansy flower meaning is also associated with hostile thoughts[10].
+* The connotation of the tansy flower is also linked to negative emotions(Gaumond, 2021).
+
+#### Tag:[Campanulales](/campanulales), [Asteraceae](/asteraceae)
+
 <br>
 
 ![]({{ site.baseurl }}/images/Tansy.jpg)
 <br>
-
-10. Gaumond, A., 2021. *Tansy Flower Meaning, Popular Types, and Uses.* [online] Petal Republic. Available at: <https://www.petalrepublic.com/tansy-flower/> [Accessed 12 April 2022].
 
 ***
 
 # Tarragon
 
 * Symbol of Lasting interest.	
+
+#### Tag:[Campanulales](/campanulales), [Asteraceae](/asteraceae)
 <br>
 
 ![]({{ site.baseurl }}/images/Tarragon.jpg)
@@ -201,6 +217,9 @@ tags: all-flowers
 
 # Thyme
 * Thyme symbolizes activity, bravery, courage and strength.
+
+#### Tag:[Tubiflorae](/tubiflorae), [Lamiaceae](/lamiaceae)
+
 <br>
 
 ![]({{ site.baseurl }}/images/Thyme.jpg)
@@ -209,109 +228,166 @@ tags: all-flowers
 ***
 
 # Tulip
-* Red: undying love, Also, the bloom says, “trust me or believe me.” In some contexts, it may also mean charity or fame[11].
+* Red: eternal love, "Trust me or believe me". In some contexts, it may also mean charity or fame(Bloom & Wild, 2022).
 
-* Pink: “You’re my perfect lover.”[11]
+* Pink: “You’re my perfect lover.”(Bloom & Wild, 2022)
 
-* Purple: eternal love.[11]
+* Purple: eternal love.(Bloom & Wild, 2022)
 
-* Orange: “I’m fascinated by you.”[12]
+* Orange: "I’m fascinated by you."(Jay, 2022)
 
-* White: sincerity or forgiveness, which makes them the best apology flowers[11].
+* White: sincerity or forgiveness, which makes them the best apology flowers(Jay, 2022).
 
-* Yellow: “There’s a sunshine in my smile.” It represents friendship, but can also represent hopeless love or no chance of reconciliation[12].
+* Yellow: "There’s a sunshine in my smile." It might indicate friendship, but it can also represent hopeless love or the inability to reconcile(Walkerflorist, 2022).
 
-* Black: sacrificial love. It’s the best flower of choice for your first bouquet to give to someone you admire. They’re regarded as the 11th wedding anniversary flower too[12].
+* Black: sacrificial love. It's the finest flower to gift to someone you admire as your first bouquet. They're also the flower for the 11th wedding anniversary(Jay, 2022).
+
+#### Tag:[Liliflorae](/liliflorae), [Liliaceae](/liliaceae)
+
 <br>
 
 ![]({{ site.baseurl }}/images/Tulip.jpg)
 <br>
 
-11. Bloom and Wild, 2022. *The symbolism and colour meaning of tulips.* [online]. Available at: <https://www.bloomandwild.com/the-meaning-and-symbolism-of-tulip-flowers> [Accessed 12 April 2022].
-12. Jay, N., 2022. *Tulips – Symbolism and Meaning.* [online] Symbolsage. Available at: <https://symbolsage.com/tulips-meaning-and-symbolism/> [Accessed 12 April 2022].
-
 ***
 
 # Valerian	
-* Valerian can symbolize calmness, strength and readiness or awareness of what is to come[13].
-<br>
+* Valerian can represent tranquility, power, and preparedness or foresight into the future(Symbolikon, 2022).
+
+#### Tag:[Rubiales](/rubiales)
 
 ![]({{ site.baseurl }}/images/valerian.jpg)
 <br>
 
-13. Symbolikon, 2022. *Valerian Flower symbol - Symbolikon.* [online]. Available at: <https://symbolikon.com/downloads/valerian-flower-symbol/> [Accessed 12 April 2022].
-
 ***
 
 # Violet
-* Common violet flower meanings include innocence, everlasting love, modesty, spiritual wisdom, faithfulness, mysticism, and remembrance[14].
+* Innocence, everlasting love, modesty, spiritual wisdom, fidelity, mysticism, and recall are all common violet flower meanings(Moulton, 2020).
 
-* Violets also are the official birth flower for February[15].
+* Violets also are the official birth flower for February(Teleflora, 2018).
 <br>
 
 ![]({{ site.baseurl }}/images/Violets.jpg)
 <br>
 
-14. Moulton, M., 2020. *Ultimate Guide to Violet Flowers (Meanings & Symbolism).* [online] Petal Republic. Available at: <https://www.petalrepublic.com/violet-flower-meanings/> [Accessed 12 April 2022].
-15. Teleflora, 2018. *February Birth Flower: The Violet.* [online]. Available at: <https://www.teleflora.com/blog/february-birth-flower-the-violet/> [Accessed 12 April 2022].
-
 ***
 
 # Willow	
-* Willow symbolizes enchantment and immortality.
+* Willow is a symbol of enchantment and eternity.
 
-* Said to hold powers of binding, blessing, healing, love and protection[16].
+* Binding, blessing, healing, love, and protection are said to be among its abilities(Bloomson9th, 2018).
 <br>
 
 ![]({{ site.baseurl }}/images/Willow.jpg)
 <br>
 
-16. Bloomson9th, 2018. *The Meaning of Willow.* [online]. Available at: <https://bloomson9th.ca/blog/willow/> [Accessed 12 April 2022].
-
 ***
 
 # Yarrow
-* The yarrow flower shares twin meanings of healing and love[17].
+* The yarrow flower is associated with both healing and love.(Gaumond, 2021).
 
-* White: Renewal, peace, purity, new beginnings, hope, and clarity[17].
+* White: Renewal, new beginnings, hope, peace, clarity, and purity(Gaumond, 2021).
 
-* Pink: Love, happiness, joy, youthfulness, and fun[17].
+* Pink: Love, joy, youthfulness, happiness, and fun(Gaumond, 2021).
 
-* Red: Passion, romantic, courage, power, and strength[17].
+* Red: Passion, romantic, courage, power, and strength(Gaumond, 2021).
 
-* Yellow: Friendship, warmth, excitement, celebration, and positivity[17].
+* Yellow: Warmth, celebration, excitement, friendship, and positivity(Gaumond, 2021).
 
-* Orange: Enthusiasm, fresh starts, appreciation, gratitude, and friendship[17].
+* Orange: Enthusiasm, gratitude, appreciation, fresh starts, and friendship(Gaumond, 2021).
+
+#### Tag:[Asterales](/asterales), [Asteraceae](/asteraceae)
 
 <br>
 
 ![]({{ site.baseurl }}/images/Yarrow.jpg)
 <br>
 
-17. Gaumond, A., 2021. *Ultimate Guide to Yarrow (Achillea millefolium).* [online] Petal Republic. Available at: <https://www.petalrepublic.com/yarrow/#12-common-yarrow-colors-and-the-meaning-amp-symbolism-> [Accessed 12 April 2022].
-
 ***
 
 # Zinnia
-* Green: Growth, wealth, money, success, and new starts[18].
+* Green: Growth, wealth, money, success, and new starts(Forbes, 2021).
 
-* Yellow: Joyfulness, energy, youthfulness, friendship, and support[18].
+* Yellow: energy, friendship, youthfulness, Joyfulness, and support(Forbes, 2021).
 
-* White: Purity, healing, recovery, peace, and elegance[18].
+* White: Purity, recovery, healing, peace, and elegance(Forbes, 2021).
 
-* Orange: Power, energy, success, drive, ambition, and family bonds[18].
+* Orange: Power, energy, ambition, success, drive, and family bonds(Forbes, 2021).
 
-* Red: Romantic love, passion, health, success, and good health[18].
+* Red: Romantic love, success, health, passion, and good health(Forbes, 2021).
 
-* Pink: Happiness, gentleness, grace, gentleness, and non-romantic love[18].
+* Pink: Happiness, gentleness, grace, gentleness, and non-romantic love(Forbes, 2021).
 
-* Purple: Elegance, regalness, royalty, wealth, success, and commitment[18].
+* Purple: Elegance, success, wealth, royalty, regalness, and commitment(Forbes, 2021).
+
+#### Tag:[Fabaceae](/fabaceae)
 <br>
 
 ![]({{ site.baseurl }}/images/Zinnia.jpg)
 <br>
 
-18. Forbes, M., 2021. *Zinnia Flower: Meaning, Symbolism, and Colors.* [online] Pansy Maiden. Available at: <https://www.pansymaiden.com/flowers/meaning/zinnia/> [Accessed 12 April 2022].
+***
 
 
 __Image Source:__ <a href="https://pixabay.com/">__Pixabay__</a>
+
+
+<html lang="en">
+ 
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+ 
+<body>
+    <div style="border: 2px solid lightgray;">
+    <a href="javascript:;" id="btn" style="font-size: 24px; font-style: bold; color:rgb(255, 157, 0);">
+        >>>Reference</a>
+    <span id="content">
+        <br>
+        Almanac. 2022. <i>Flower Meanings: The Language of Flowers.</i> [online] Available at: <https://www.almanac.com/flower-meanings-language-flowers> [Accessed 12 April 2022].<br><br>
+        Bloom & Wild. 2022. <i>The symbolism and colour meaning of tulips.</i> [online] Available at: <https://www.bloomandwild.com/the-meaning-and-symbolism-of-tulip-flowers> [Accessed 12 April 2022].<br><br>
+        Bloomson9th. 2018. <i>The Meaning of Willow.</i> [online] Available at: <https://bloomson9th.ca/blog/willow/> [Accessed 12 April 2022].<br><br>
+        Forbes, M., 2021. <i>Sweet William Flower: Meaning, Symbolism, and Colors.</i> [online] Pansy Maiden. Available at: <https://www.pansymaiden.com/flowers/meaning/sweet-william/> [Accessed 12 April 2022].<br><br>
+        Forbes, M., 2021. <i>Zinnia Flower: Meaning, Symbolism, and Colors.</i> [online] Pansy Maiden. Available at: <https://www.pansymaiden.com/flowers/meaning/zinnia/> [Accessed 12 April 2022].<br><br>
+        Gaumond, A., 2021. <i>Salvia Flower Meaning, Symbolism, and Uses.</i> [online] Petal Republic. Available at: <https://www.petalrepublic.com/salvia-flower/> [Accessed 12 April 2022].<br><br>
+        Gaumond, A., 2021. <i>Savory Flower Meaning, Symbolism, Types, and Uses.</i> [online] Petal Republic. Available at: <https://www.petalrepublic.com/savory-flower/> [Accessed 12 April 2022].<br><br>
+        Gaumond, A., 2021. <i>Speedwell (Veronica) Flower Meaning, Types, and Uses.</i> [online] Petal Republic. Available at: <https://www.petalrepublic.com/speedwell-flower/#4-speedwell-botanical-characteristics-colors-fragrances-> [Accessed 12 April 2022].<br><br>
+        Gaumond, A., 2021. <i>Tansy Flower Meaning, Popular Types, and Uses.</i> [online] Petal Republic. Available at: <https://www.petalrepublic.com/tansy-flower/> [Accessed 12 April 2022].<br><br>
+        Gaumond, A., 2021. <i>Ultimate Guide to Southernwood (Artemisia abrotanum).</i> [online] Petal Republic. Available at: <https://www.petalrepublic.com/southernwood-flower/> [Accessed 12 April 2022].<br><br>
+        Gaumond, A., 2021. <i>Ultimate Guide to Yarrow (Achillea millefolium).</i> [online] Petal Republic. Available at: <https://www.petalrepublic.com/yarrow/#12-common-yarrow-colors-and-the-meaning-amp-symbolism-> [Accessed 12 April 2022].<br><br>
+        Jay, N., 2022. <i>Sunflower – Symbolism and Meaning.</i> [online] Symbolsage. Available at: <https://symbolsage.com/sunflower-symbolism-and-meaning/> [Accessed 12 April 2022].<br><br>
+        Jay, N., 2022. <i>Tulips – Symbolism and Meaning.</i> [online] Symbolsage. Available at: <https://symbolsage.com/tulips-meaning-and-symbolism/> [Accessed 12 April 2022].<br><br>
+        Moulton, M., 2020. <i>Ultimate Guide to Violet Flowers (Meanings & Symbolism).</i> [online] Petal Republic. Available at: <https://www.petalrepublic.com/violet-flower-meanings/> [Accessed 12 April 2022].<br><br>
+        Rebekah, P., 2015. <i>Sweet Pea Flower Meaning and Symbolism.</i> [online] Florgeous. Available at: <https://florgeous.com/sweet-pea-flower-meaning/> [Accessed 12 April 2022].<br><br>
+        Rebekah, P., 2021. <i>Snapdragon Flower Meaning and Symbolism.</i> [online] Florgeous. Available at: <https://florgeous.com/snapdragon-flower-meaning/> [Accessed 12 April 2022].<br><br>
+        Symbolikon. 2022. <i>Valerian Flower symbol - Symbolikon.</i> [online] Available at: <https://symbolikon.com/downloads/valerian-flower-symbol/> [Accessed 12 April 2022].<br><br>
+        Teleflora. 2018. <i>February Birth Flower: The Violet.</i> [online] Available at: <https://www.teleflora.com/blog/february-birth-flower-the-violet/> [Accessed 12 April 2022].<br><br>
+        Walkerflorist. 2022. <i>The Meaning Of Flowers.</i> [online] Available at: <https://walkerflorist.com/meaning.html> [Accessed 12 April 2022].<br><br>
+        Walls-Thumma, D., 2017. <i>The Significance of the Herb Sage.</i> [online] Garden Guides. Available at: <https://www.gardenguides.com/139463-significance-herb-sage.html> [Accessed 12 April 2022].<br><br>
+    </span>
+    </div>
+    <script type="text/javascript">
+        //获取button按钮
+        var btn = document.getElementById('btn');
+        //获取p
+        var content = document.getElementById('content');
+        //获取p中的内容
+        var str = content.innerHTML;
+        //定义一个变量，表示当前的状态（收缩、展开）
+        var onOff = true; // true表示展开
+        btn.onclick = function() {
+            if (onOff) {
+                content.innerHTML = str.substr(0, 0);
+            } else {
+                //说明当前状态是收缩的，需要展开
+                content.innerHTML = str
+            }
+            onOff = !onOff; //每点击一次，改变一次展开、收缩状态
+            return false; //阻止a标签的默认事件
+        }
+    </script>
+
+</body>
+ 
+</html>
