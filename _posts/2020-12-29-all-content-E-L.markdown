@@ -100,7 +100,7 @@ tags: all-flowers
 
 ### Jasmine
 
-* love, romance, and sensuality, purity and motherhood, as well as honor and respect(Moulton, 2021).
+* Love, romance, and sensuality, purity and motherhood, as well as honor and respect(Moulton, 2021).
 
 #### Tag:[Oleaceae](/oleaceae)
 

@@ -22,7 +22,7 @@ tags: all-flowers
 
 * Grief
 
-* jealousy
+* Jealousy
 
 #### Tag:[Asterales](/asterales), [Asteraceae](/asteraceae)
 
