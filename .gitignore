@@ -3,16 +3,3 @@ _site
 .jekyll-metadata
 *.DS_Store
 Gemfile.lock
-//内容是传上去了
-但是为啥push main没用可以了呀。
-那我想要再上传的话我直接add commit 然后push就行了嘛
-
-
-git commit -a -m 'commit'
-git push main
-
-我看看另外一个上传受不受影响
-诶，我是不是得改点啥再上传啊
-
-是啊，没东西传
-那我随便改一个
