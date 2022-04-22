@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  FOR WEDDING
-date:   2021-01-06 15:01:35 +0300
+date:   2022-01-06 15:01:35 +0300
 image:  wedding0.jpg
 tags:   occasion
 ---
