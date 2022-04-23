@@ -4,12 +4,11 @@ There are millions of flowers in the world, each with its own meaning, and the n
 
 ### Credits
 
-The author have used the following scripts, fonts or other files as listed.
+The scripts, fonts or other files used are listed below
 
 *   [Google Fonts](https://fonts.google.com/specimen/Nunito) (Roboto, Sans Serif).
 *   [Ionicons Icons](https://ionicons.com/)
 *   [FitVids.js](http://fitvidsjs.com/)
-*   [Instafeed.js](http://instafeedjs.com/)
 *   [jQuery.com](https://jquery.com/)
 *   Preview Images form [unsplash.com](https://unsplash.com/), [pexels.com](https://www.pexels.com/)
 
